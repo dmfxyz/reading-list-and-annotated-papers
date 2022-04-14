@@ -1,5 +1,5 @@
 # Reading List
-A collection of resources I’ve found helpful or interesting Some are just things I want to keep handy. 
+A collection of resources I’ve found helpful or interesting. Some are just things I want to keep handy. The list is both updated and pruned sporadically, and is pushed occassionally. I hope to organize it further when I have time; for now the links are listed in no particular order.
 
 ## Words
 
@@ -22,6 +22,17 @@ A collection of resources I’ve found helpful or interesting Some are just thin
 - [EVM Deep Dives](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r) (By noxx, parts 1-3)
 
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/)
+  
+- [Solving ParadigmCTF's JOP](https://plotchy.substack.com/p/solving-paradigmctfs-jop-?s=r) (by plotchy)
+
+- [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
+
+- [Uniswap 1](https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf), [Uniswap 2](https://uniswap.org/whitepaper.pdf), [Uniswap 3](https://uniswap.org/whitepaper-v3.pdf)
+  
+- [Gradual Dutch Auctions](https://www.paradigm.xyz/2022/04/gda)
+  
+- [Yul Specification](https://docs.soliditylang.org/en/latest/yul.html)
+  
 
 ## Pictures
 - [3blue1brown’s linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (good refresher if you previously learned linalg by rote memorization )
