@@ -33,6 +33,14 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
   
 - [Yul Specification](https://docs.soliditylang.org/en/latest/yul.html)
 
+- [Byzantine Fault Tolerance](https://medium.com/loom-network/understanding-blockchain-fundamentals-part-1-byzantine-fault-tolerance-245f46fe8419)
+
+- [Retroactive Airdrops are Exotic Options](https://gauntlet.network/reports/retroairdrop)
+
+- [Trail of Bits: Frozen Heart](https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/)
+
+- All of [vitalik.ca](https://vitalik.ca)
+
 - [Verifiable Delay Functions](https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/)
 
 - [Nansen: Arbitrage on Decentralized Exchanges](https://www.nansen.ai/research/arbitrage-on-decentralised-exchanges)
