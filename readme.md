@@ -32,6 +32,10 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 - [Gradual Dutch Auctions](https://www.paradigm.xyz/2022/04/gda)
   
 - [Yul Specification](https://docs.soliditylang.org/en/latest/yul.html)
+
+- [Verifiable Delay Functions](https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/)
+
+- [Nansen: Arbitrage on Decentralized Exchanges](https://www.nansen.ai/research/arbitrage-on-decentralised-exchanges)
   
 
 ## Pictures
