@@ -44,13 +44,10 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 - [Trail of Bits: Frozen Heart](https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/)
 
 - All of [vitalik.ca](https://vitalik.ca)
-<<<<<<< HEAD
-=======
 
 - [Verifiable Delay Functions](https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/)
 
 - [Nansen: Arbitrage on Decentralized Exchanges](https://www.nansen.ai/research/arbitrage-on-decentralised-exchanges)
->>>>>>> 15fbbd2956d1ffb53b83eaae38819f82e6e3bd9b
   
 - [W3C's Notation Spec for EBNF Grammars](https://www.w3.org/TR/2010/REC-xquery-20101214/#id-grammar)
 
