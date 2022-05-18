@@ -19,7 +19,7 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - [Introducing the Foundry Ethereum development toolbox](https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox)
 
-- [EVM Deep Dives](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r) (By noxx, parts 1-3)
+- [EVM Deep Dives](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r) (By noxx, parts 1-5)
 
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/)
   
@@ -28,8 +28,12 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 - [Hardware Acceleration for Zero Knowledge Proofs](https://www.paradigm.xyz/2022/04/zk-hardware)
 
 - [Uniswap 1](https://github.com/runtimeverification/verified-smart-contracts/blob/uniswap/uniswap/x-y-k.pdf), [Uniswap 2](https://uniswap.org/whitepaper.pdf), [Uniswap 3](https://uniswap.org/whitepaper-v3.pdf)
+
+- [Programming Uniswap v2](https://jeiwan.net/posts/programming-defi-uniswapv2-4/) (by jeiwan)
   
 - [Gradual Dutch Auctions](https://www.paradigm.xyz/2022/04/gda)
+
+- [Multicall](https://destiner.io/blog/post/multicall-how-to-make-multiple-ethereum-calls-in-a-single-request/)
   
 - [Yul Specification](https://docs.soliditylang.org/en/latest/yul.html)
 
@@ -41,6 +45,9 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - All of [vitalik.ca](https://vitalik.ca)
   
+- [W3C's Notation Spec for EBNF Grammars](https://www.w3.org/TR/2010/REC-xquery-20101214/#id-grammar)
+
+- [Replicating Monotic Payoffs Without Oracles](https://arxiv.org/pdf/2111.13740.pdf)
 
 ## Pictures
 - [3blue1brown’s linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (good refresher if you previously learned linalg by rote memorization )
@@ -54,3 +61,5 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 - [Literally anything on the Applied Science youtube channel](https://www.youtube.com/channel/UCivA7_KLKWo43tFcCkFvydw)
 
 - [FTX Pyth Workshop on Regulation and Licenses](https://www.youtube.com/watch?v=nl06VW4TBLM)
+
+- [ETHAmsterdam 2022](https://www.youtube.com/watch?app=desktop&v=HYPGD2bOMOo) (need to add timestamps)
