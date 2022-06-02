@@ -53,6 +53,10 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - [Replicating Monotic Payoffs Without Oracles](https://arxiv.org/pdf/2111.13740.pdf)
 
+- [Demystifying the TerraUSD Peg](https://www.nansen.ai/research/on-chain-forensics-demystifying-terrausd-de-peg)
+
+- [Fractional Reserve Banking in Decentralized Finance](https://interestprotocol.io/#/whitepaper)
+
 ## Pictures
 - [3blue1brown’s linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (good refresher if you previously learned linalg by rote memorization )
 
