@@ -19,7 +19,7 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - [Introducing the Foundry Ethereum development toolbox](https://www.paradigm.xyz/2021/12/introducing-the-foundry-ethereum-development-toolbox)
 
-- [EVM Deep Dives](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r) (By noxx, parts 1-5)
+- [EVM Deep Dives](https://noxx.substack.com/p/evm-deep-dives-the-path-to-shadowy?s=r) (By noxx, parts 1-6)
 
 - [Solidity Docs](https://docs.soliditylang.org/en/v0.8.13/)
   
