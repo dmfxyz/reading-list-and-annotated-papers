@@ -61,6 +61,8 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - [Rai: A Low Volatility, Trust Minimized Collateral for the DeFi Ecosystem](https://github.com/reflexer-labs/whitepapers/blob/master/English/rai-english.pdf)
 
+- [Principles of decentralized finance (Summer 2022)](https://cfmm.io/)
+
 ## Pictures
 - [3blue1brown’s linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (good refresher if you previously learned linalg by rote memorization )
 
