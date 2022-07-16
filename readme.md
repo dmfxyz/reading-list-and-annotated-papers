@@ -63,6 +63,8 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - [Principles of decentralized finance (Summer 2022)](https://cfmm.io/)
 
+- [A Specification for the Unchained Index (TrueBlocks)](https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf)
+
 ## Pictures
 - [3blue1brown’s linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (good refresher if you previously learned linalg by rote memorization )
 
