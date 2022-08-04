@@ -65,6 +65,8 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - [A Specification for the Unchained Index (TrueBlocks)](https://trueblocks.io/papers/2022/file-format-spec-v0.40.0-beta.pdf)
 
+- [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
+
 ## Pictures
 - [3blue1brown’s linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (good refresher if you previously learned linalg by rote memorization )
 
