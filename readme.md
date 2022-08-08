@@ -67,6 +67,8 @@ A collection of resources I’ve found helpful or interesting. Some are just thi
 
 - [The different types of ZK-EVMs](https://vitalik.ca/general/2022/08/04/zkevm.html)
 
+- [Tornado Cash Privacy Solution](https://web.archive.org/web/20210921024215/https://tornado.cash/Tornado.cash_whitepaper_v1.4.pdf)
+
 ## Pictures
 - [3blue1brown’s linear algebra series](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (good refresher if you previously learned linalg by rote memorization )
 
